@@ -1,4 +1,4 @@
-# Usando Vue no código do Visual Estúdio
+# Usando Vue no VSCode
 
 O [Vue.js](https://vuejs.org/) é uma biblioteca JavaScript popular para a construção de interfaces de usuário de aplicativos web e de código Visual Studio tem suporte embutido para os blocos de construção Vue.js de [HTML](https://code.visualstudio.com/docs/languages/html) , [CSS](https://code.visualstudio.com/docs/languages/css) e [JavaScript](https://code.visualstudio.com/docs/languages/javascript) . 
 
