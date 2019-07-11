@@ -40,7 +40,7 @@ new Vue({
 </div>
 ```
 
-O resultado base é resumido no HTML, para facilitar o trabalho para você.
+O resultado base é resumido no HTML abaixo para facilitar o trabalho para você.
 
 ```html
 <html>
@@ -72,7 +72,7 @@ O resultado base é resumido no HTML, para facilitar o trabalho para você.
 
 E o que temos é isso:
 
-```json
+```js
 { "data": { "time": { "updated": "Jul 11, 2019 15:12:00 UTC", "updatedISO": "2019-07-11T15:12:00+00:00", "updateduk": "Jul 11, 2019 at 16:12 BST" }, "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org", "chartName": "Bitcoin", "bpi": { "USD": { "code": "USD", "symbol": "&#36;", "rate": "11,769.2850", "description": "United States Dollar", "rate_float": 11769.285 }, "GBP": { "code": "GBP", "symbol": "&pound;", "rate": "9,387.6996", "description": "British Pound Sterling", "rate_float": 9387.6996 }, "EUR": { "code": "EUR", "symbol": "&euro;", "rate": "10,458.8928", "description": "Euro", "rate_float": 10458.8928 } } }, "status": 200, "statusText": "", "headers": { "cache-control": "max-age=15", "content-type": "application/javascript", "expires": "Thu, 11 Jul 2019 15:13:07 UTC" }, "config": { "transformRequest": {}, "transformResponse": {}, "timeout": 0, "xsrfCookieName": "XSRF-TOKEN", "xsrfHeaderName": "X-XSRF-TOKEN", "maxContentLength": -1, "headers": { "Accept": "application/json, text/plain, */*" }, "method": "get", "url": "https://api.coindesk.com/v1/bpi/currentprice.json" }, "request": {} }
 ```
 
