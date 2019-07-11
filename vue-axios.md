@@ -126,11 +126,7 @@ filters: {
 },
 ```
 
-
-
-![image-20190711122227804](/Users/marco.mendes/Library/Application Support/typora-user-images/image-20190711122227804.png)
-
-
+Abra o HTML e veja os resultados.
 
 ### [Lidando com Erros](https://br.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html#Lidando-com-Erros)
 
@@ -211,11 +207,7 @@ new Vue({
 
 
 
-Você pode clicar no botão reexecutar no exemplo abaixo, para poder ver rapidamente o estado de carregamento, enquanto buscamos os dados da API:
-
-![image-20190711122431349](/Users/marco.mendes/Library/Application Support/typora-user-images/image-20190711122431349.png)
-
-
+Você pode clicar no botão reexecutar no exemplo abaixo, para poder ver rapidamente o estado de carregamento, enquanto buscamos os dados da API.
 
 ## [Considerações Finais](https://br.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html#Consideracoes-Finais)
 
